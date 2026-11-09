@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-09 00:44 UTC",
+ "updated": "2026-11-09 00:58 UTC",
  "packs": [
   {
    "name": "reznnnnyaaanzbxnz_by_fStikBot",
@@ -8,6 +8,13 @@
    "slug": "reznnnnyaaanzbxnzbyf",
    "count": 120,
    "link": "https://t.me/addstickers/reznnnnyaaanzbxnz_by_fStikBot"
+  },
+  {
+   "name": "sti_wiwixa_by_TgEmodziBot",
+   "title": "wiwixa @TgEmodziBot",
+   "slug": "stiwiwixabytgemodzib",
+   "count": 25,
+   "link": "https://t.me/addstickers/sti_wiwixa_by_TgEmodziBot"
   }
  ],
  "stickers": [
@@ -969,6 +976,206 @@
    "emoji": "🥲",
    "desc": "🥲 три кадра: смех, ступор, слёзы — эмоциональные качели",
    "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_001",
+   "file": "stickers/stiwiwixabytgemodzib/001.webp",
+   "emoji": "🤭",
+   "desc": "🤭",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_002",
+   "file": "stickers/stiwiwixabytgemodzib/002.webp",
+   "emoji": "😒",
+   "desc": "😒",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_003",
+   "file": "stickers/stiwiwixabytgemodzib/003.webp",
+   "emoji": "🤗",
+   "desc": "🤗",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_004",
+   "file": "stickers/stiwiwixabytgemodzib/004.webp",
+   "emoji": "🐾",
+   "desc": "🐾",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_005",
+   "file": "stickers/stiwiwixabytgemodzib/005.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_006",
+   "file": "stickers/stiwiwixabytgemodzib/006.webp",
+   "emoji": "🖕",
+   "desc": "🖕",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_007",
+   "file": "stickers/stiwiwixabytgemodzib/007.webp",
+   "emoji": "😜",
+   "desc": "😜",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_008",
+   "file": "stickers/stiwiwixabytgemodzib/008.webp",
+   "emoji": "😠",
+   "desc": "😠",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_009",
+   "file": "stickers/stiwiwixabytgemodzib/009.webp",
+   "emoji": "🍞",
+   "desc": "🍞",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_010",
+   "file": "stickers/stiwiwixabytgemodzib/010.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_011",
+   "file": "stickers/stiwiwixabytgemodzib/011.webp",
+   "emoji": "🤤",
+   "desc": "🤤",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_012",
+   "file": "stickers/stiwiwixabytgemodzib/012.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_013",
+   "file": "stickers/stiwiwixabytgemodzib/013.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_014",
+   "file": "stickers/stiwiwixabytgemodzib/014.webp",
+   "emoji": "😏",
+   "desc": "😏",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_015",
+   "file": "stickers/stiwiwixabytgemodzib/015.webp",
+   "emoji": "😠",
+   "desc": "😠",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_016",
+   "file": "stickers/stiwiwixabytgemodzib/016.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_017",
+   "file": "stickers/stiwiwixabytgemodzib/017.webp",
+   "emoji": "😈",
+   "desc": "😈",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_018",
+   "file": "stickers/stiwiwixabytgemodzib/018.webp",
+   "emoji": "😝",
+   "desc": "😝",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_019",
+   "file": "stickers/stiwiwixabytgemodzib/019.webp",
+   "emoji": "🤤",
+   "desc": "🤤",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_020",
+   "file": "stickers/stiwiwixabytgemodzib/020.webp",
+   "emoji": "😤",
+   "desc": "😤",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_021",
+   "file": "stickers/stiwiwixabytgemodzib/021.webp",
+   "emoji": "🤬",
+   "desc": "🤬",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_022",
+   "file": "stickers/stiwiwixabytgemodzib/022.webp",
+   "emoji": "🌹",
+   "desc": "🌹",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_023",
+   "file": "stickers/stiwiwixabytgemodzib/023.webp",
+   "emoji": "🤤",
+   "desc": "🤤",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_024",
+   "file": "stickers/stiwiwixabytgemodzib/024.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_025",
+   "file": "stickers/stiwiwixabytgemodzib/025.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "stiwiwixabytgemodzib",
    "anim": 0
   }
  ]
