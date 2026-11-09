@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-09 01:22 UTC",
+ "updated": "2026-11-09 01:24 UTC",
  "packs": [
   {
    "name": "sti_wiwixa_by_TgEmodziBot",
@@ -8,6 +8,13 @@
    "slug": "stiwiwixabytgemodzib",
    "count": 25,
    "link": "https://t.me/addstickers/sti_wiwixa_by_TgEmodziBot"
+  },
+  {
+   "name": "Ulyalya_2467_by_fStikBot",
+   "title": "Уляля :: @fStikBot",
+   "slug": "ulyalya2467byfstikbo",
+   "count": 15,
+   "link": "https://t.me/addstickers/Ulyalya_2467_by_fStikBot"
   }
  ],
  "stickers": [
@@ -209,6 +216,126 @@
    "emoji": "🥰",
    "desc": "🥰 демон дарит лисичке цветы, она смущена «!!!»",
    "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_001",
+   "file": "stickers/ulyalya2467byfstikbo/001.webp",
+   "emoji": "😸",
+   "desc": "😸",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_002",
+   "file": "stickers/ulyalya2467byfstikbo/002.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_003",
+   "file": "stickers/ulyalya2467byfstikbo/003.webp",
+   "emoji": "❤️",
+   "desc": "❤️",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_004",
+   "file": "stickers/ulyalya2467byfstikbo/004.webp",
+   "emoji": "🤩",
+   "desc": "🤩",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_005",
+   "file": "stickers/ulyalya2467byfstikbo/005.webp",
+   "emoji": "❤️",
+   "desc": "❤️",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_006",
+   "file": "stickers/ulyalya2467byfstikbo/006.webp",
+   "emoji": "😝",
+   "desc": "😝",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_007",
+   "file": "stickers/ulyalya2467byfstikbo/007.webp",
+   "emoji": "☺️",
+   "desc": "☺️",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_008",
+   "file": "stickers/ulyalya2467byfstikbo/008.webp",
+   "emoji": "😼",
+   "desc": "😼",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_009",
+   "file": "stickers/ulyalya2467byfstikbo/009.webp",
+   "emoji": "🙂",
+   "desc": "🙂",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_010",
+   "file": "stickers/ulyalya2467byfstikbo/010.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_011",
+   "file": "stickers/ulyalya2467byfstikbo/011.webp",
+   "emoji": "😁",
+   "desc": "😁",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_012",
+   "file": "stickers/ulyalya2467byfstikbo/012.webp",
+   "emoji": "🌟",
+   "desc": "🌟",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_013",
+   "file": "stickers/ulyalya2467byfstikbo/013.webp",
+   "emoji": "😽",
+   "desc": "😽",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_014",
+   "file": "stickers/ulyalya2467byfstikbo/014.webp",
+   "emoji": "❤️",
+   "desc": "❤️",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_015",
+   "file": "stickers/ulyalya2467byfstikbo/015.webp",
+   "emoji": "❤️",
+   "desc": "❤️",
+   "pack": "ulyalya2467byfstikbo",
    "anim": 0
   }
  ]
