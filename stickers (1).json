@@ -1,0 +1,342 @@
+{
+ "v": 1,
+ "updated": "2026-11-09 01:24 UTC",
+ "packs": [
+  {
+   "name": "sti_wiwixa_by_TgEmodziBot",
+   "title": "wiwixa @TgEmodziBot",
+   "slug": "stiwiwixabytgemodzib",
+   "count": 25,
+   "link": "https://t.me/addstickers/sti_wiwixa_by_TgEmodziBot"
+  },
+  {
+   "name": "Ulyalya_2467_by_fStikBot",
+   "title": "Уляля :: @fStikBot",
+   "slug": "ulyalya2467byfstikbo",
+   "count": 15,
+   "link": "https://t.me/addstickers/Ulyalya_2467_by_fStikBot"
+  }
+ ],
+ "stickers": [
+  {
+   "id": "stiwiwixabytgemodzib_001",
+   "file": "stickers/stiwiwixabytgemodzib/001.webp",
+   "emoji": "🤭",
+   "desc": "🤭 рыжая лисичка прикрыла рот ладошкой — смущённо хихикает",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_002",
+   "file": "stickers/stiwiwixabytgemodzib/002.webp",
+   "emoji": "😒",
+   "desc": "😒 лисичка в костюме дракончика лежит пластом «…» — лень, недовольство",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_003",
+   "file": "stickers/stiwiwixabytgemodzib/003.webp",
+   "emoji": "🤗",
+   "desc": "🤗 лисичка в костюме дракончика тянет лапки — «обними меня»",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_004",
+   "file": "stickers/stiwiwixabytgemodzib/004.webp",
+   "emoji": "🐾",
+   "desc": "🐾 лисичка показывает мягкие лапки — мило, «мур»",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_005",
+   "file": "stickers/stiwiwixabytgemodzib/005.webp",
+   "emoji": "🥺",
+   "desc": "🥺 лисичка плачет и тянет руки — хочу обнимашки",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_006",
+   "file": "stickers/stiwiwixabytgemodzib/006.webp",
+   "emoji": "🖕",
+   "desc": "🖕 лисичка с ухмылкой показывает средний палец",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_007",
+   "file": "stickers/stiwiwixabytgemodzib/007.webp",
+   "emoji": "😜",
+   "desc": "😜 лисичка нарочно разливает напиток и хихикает — пакостит",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_008",
+   "file": "stickers/stiwiwixabytgemodzib/008.webp",
+   "emoji": "😠",
+   "desc": "😠 лисичка хмурится 💢 — злится",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_009",
+   "file": "stickers/stiwiwixabytgemodzib/009.webp",
+   "emoji": "🍞",
+   "desc": "🍞 беловолосый демон сделал из злой лисички бутерброд — дразнит",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_010",
+   "file": "stickers/stiwiwixabytgemodzib/010.webp",
+   "emoji": "🥰",
+   "desc": "🥰 лисичка радостно подмигивает, сердечки",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_011",
+   "file": "stickers/stiwiwixabytgemodzib/011.webp",
+   "emoji": "🤤",
+   "desc": "🤤 демон тыкает пальцем в злую лисичку — дразнит",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_012",
+   "file": "stickers/stiwiwixabytgemodzib/012.webp",
+   "emoji": "🥰",
+   "desc": "🥰 лисичка повисла на демоне и обнимает его — влюблённые обнимашки",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_013",
+   "file": "stickers/stiwiwixabytgemodzib/013.webp",
+   "emoji": "🤨",
+   "desc": "🤨 лисичка с «?» — не поняла",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_014",
+   "file": "stickers/stiwiwixabytgemodzib/014.webp",
+   "emoji": "😏",
+   "desc": "😏 лисичка хитро улыбается — что-то задумала",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_015",
+   "file": "stickers/stiwiwixabytgemodzib/015.webp",
+   "emoji": "😠",
+   "desc": "😠 лисичка уткнулась лицом в колени — грустит, обиделась",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_016",
+   "file": "stickers/stiwiwixabytgemodzib/016.webp",
+   "emoji": "😡",
+   "desc": "😡 лисичка в бешенстве, пыхтит 💢",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_017",
+   "file": "stickers/stiwiwixabytgemodzib/017.webp",
+   "emoji": "😈",
+   "desc": "😈 лисичка с клыками ехидно смеётся — «ррр», дразнится",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_018",
+   "file": "stickers/stiwiwixabytgemodzib/018.webp",
+   "emoji": "😝",
+   "desc": "😝 лисичка «бе-бе-бе» показывает язык",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_019",
+   "file": "stickers/stiwiwixabytgemodzib/019.webp",
+   "emoji": "🤤",
+   "desc": "🤤 лисичка прижимается к мускулистому торсу — флиртует, «мой»",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_020",
+   "file": "stickers/stiwiwixabytgemodzib/020.webp",
+   "emoji": "😤",
+   "desc": "😤 демон крепко сжимает в объятиях злую лисичку в пледе — не отпускает",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_021",
+   "file": "stickers/stiwiwixabytgemodzib/021.webp",
+   "emoji": "🤬",
+   "desc": "🤬 демон обнимает ворчащую лисичку в пледе — уютные обнимашки",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_022",
+   "file": "stickers/stiwiwixabytgemodzib/022.webp",
+   "emoji": "🌹",
+   "desc": "🌹 лисичка смущённо дарит красную розу",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_023",
+   "file": "stickers/stiwiwixabytgemodzib/023.webp",
+   "emoji": "🤤",
+   "desc": "🤤 лисичка тянет лапки «ааа» — «дай!» / «иди ко мне»",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_024",
+   "file": "stickers/stiwiwixabytgemodzib/024.webp",
+   "emoji": "🥰",
+   "desc": "🥰 лисичка дуется, а довольный демон с сердечком рядом — ревнует, обижена",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "stiwiwixabytgemodzib_025",
+   "file": "stickers/stiwiwixabytgemodzib/025.webp",
+   "emoji": "🥰",
+   "desc": "🥰 демон дарит лисичке цветы, она смущена «!!!»",
+   "pack": "stiwiwixabytgemodzib",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_001",
+   "file": "stickers/ulyalya2467byfstikbo/001.webp",
+   "emoji": "😸",
+   "desc": "😸 рыжего кота чешут расчёской, он жмурится от кайфа",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_002",
+   "file": "stickers/ulyalya2467byfstikbo/002.webp",
+   "emoji": "🥺",
+   "desc": "🥺 серый кот жалобно смотрит — «ну пожалуйста»",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_003",
+   "file": "stickers/ulyalya2467byfstikbo/003.webp",
+   "emoji": "❤️",
+   "desc": "❤️ чиби-парень с кошачьими ушками заботливо держит малыша",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_004",
+   "file": "stickers/ulyalya2467byfstikbo/004.webp",
+   "emoji": "🤩",
+   "desc": "🤩 чиби-демонёнок мило протягивает цветочек",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_005",
+   "file": "stickers/ulyalya2467byfstikbo/005.webp",
+   "emoji": "❤️",
+   "desc": "❤️ пушистого кота нежно гладят — нежность",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_006",
+   "file": "stickers/ulyalya2467byfstikbo/006.webp",
+   "emoji": "😝",
+   "desc": "😝 кот высунул язык со слюнями — дурачится",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_007",
+   "file": "stickers/ulyalya2467byfstikbo/007.webp",
+   "emoji": "☺️",
+   "desc": "☺️ саблезубая кошка «НЕГОДНИЦА» — ехидно",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_008",
+   "file": "stickers/ulyalya2467byfstikbo/008.webp",
+   "emoji": "😼",
+   "desc": "😼 саблезубый тигр «ПОГАНЕЦ» — ехидно",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_009",
+   "file": "stickers/ulyalya2467byfstikbo/009.webp",
+   "emoji": "🙂",
+   "desc": "🙂 котёнок «ядерная овуляция» — шутка «я тебя хочу»",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_010",
+   "file": "stickers/ulyalya2467byfstikbo/010.webp",
+   "emoji": "🤨",
+   "desc": "🤨 кот «схуяли» — с чего бы это?, возмущённое недоумение",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_011",
+   "file": "stickers/ulyalya2467byfstikbo/011.webp",
+   "emoji": "😁",
+   "desc": "😁 котёнок развалился «ВАШЕ ПОХУЙ МНЕ» — мне плевать",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_012",
+   "file": "stickers/ulyalya2467byfstikbo/012.webp",
+   "emoji": "🌟",
+   "desc": "🌟 коза «Привет я коза» — дурацкое приветствие",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_013",
+   "file": "stickers/ulyalya2467byfstikbo/013.webp",
+   "emoji": "😽",
+   "desc": "😽 маленькая девочка смешно надула губы — дуется",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 1
+  },
+  {
+   "id": "ulyalya2467byfstikbo_014",
+   "file": "stickers/ulyalya2467byfstikbo/014.webp",
+   "emoji": "❤️",
+   "desc": "❤️ чиби-девочка тащит за собой лежащего беловолосого парня — «пошли уже»",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  },
+  {
+   "id": "ulyalya2467byfstikbo_015",
+   "file": "stickers/ulyalya2467byfstikbo/015.webp",
+   "emoji": "❤️",
+   "desc": "❤️ парень обнимает и целует другого в щёку — нежность",
+   "pack": "ulyalya2467byfstikbo",
+   "anim": 0
+  }
+ ]
+}
