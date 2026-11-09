@@ -1,0 +1,975 @@
+{
+ "v": 1,
+ "updated": "2026-11-09 00:44 UTC",
+ "packs": [
+  {
+   "name": "reznnnnyaaanzbxnz_by_fStikBot",
+   "title": "резня :: @fStikBot",
+   "slug": "reznnnnyaaanzbxnzbyf",
+   "count": 120,
+   "link": "https://t.me/addstickers/reznnnnyaaanzbxnz_by_fStikBot"
+  }
+ ],
+ "stickers": [
+  {
+   "id": "reznnnnyaaanzbxnzbyf_001",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/001.webp",
+   "emoji": "😵‍💫",
+   "desc": "😵‍💫",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_002",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/002.webp",
+   "emoji": "🚬",
+   "desc": "🚬",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_003",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/003.webp",
+   "emoji": "😳",
+   "desc": "😳",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_004",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/004.webp",
+   "emoji": "😬",
+   "desc": "😬",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_005",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/005.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_006",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/006.webp",
+   "emoji": "💀",
+   "desc": "💀",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_007",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/007.webp",
+   "emoji": "😥",
+   "desc": "😥",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_008",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/008.webp",
+   "emoji": "😫",
+   "desc": "😫",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_009",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/009.webp",
+   "emoji": "😰",
+   "desc": "😰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_010",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/010.webp",
+   "emoji": "💅",
+   "desc": "💅",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_011",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/011.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_012",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/012.webp",
+   "emoji": "😖",
+   "desc": "😖",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_013",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/013.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_014",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/014.webp",
+   "emoji": "👍",
+   "desc": "👍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_015",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/015.webp",
+   "emoji": "🤬",
+   "desc": "🤬",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_016",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/016.webp",
+   "emoji": "😍",
+   "desc": "😍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_017",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/017.webp",
+   "emoji": "😑",
+   "desc": "😑",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_018",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/018.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_019",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/019.webp",
+   "emoji": "😰",
+   "desc": "😰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_020",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/020.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_021",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/021.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_022",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/022.webp",
+   "emoji": "😥",
+   "desc": "😥",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_023",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/023.webp",
+   "emoji": "😐",
+   "desc": "😐",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_024",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/024.webp",
+   "emoji": "🥹",
+   "desc": "🥹",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_025",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/025.webp",
+   "emoji": "☠️",
+   "desc": "☠️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_026",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/026.webp",
+   "emoji": "❤️",
+   "desc": "❤️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_027",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/027.webp",
+   "emoji": "😐",
+   "desc": "😐",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_028",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/028.webp",
+   "emoji": "☺",
+   "desc": "☺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_029",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/029.webp",
+   "emoji": "😦",
+   "desc": "😦",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_030",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/030.webp",
+   "emoji": "😧",
+   "desc": "😧",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_031",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/031.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_032",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/032.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_033",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/033.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_034",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/034.webp",
+   "emoji": "🤕",
+   "desc": "🤕",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_035",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/035.webp",
+   "emoji": "😖",
+   "desc": "😖",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_036",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/036.webp",
+   "emoji": "😵‍💫",
+   "desc": "😵‍💫",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_037",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/037.webp",
+   "emoji": "🫥",
+   "desc": "🫥",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_038",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/038.webp",
+   "emoji": "😈",
+   "desc": "😈",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_039",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/039.webp",
+   "emoji": "👍",
+   "desc": "👍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_040",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/040.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_041",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/041.webp",
+   "emoji": "🤬",
+   "desc": "🤬",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_042",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/042.webp",
+   "emoji": "😬",
+   "desc": "😬",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_043",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/043.webp",
+   "emoji": "☺️",
+   "desc": "☺️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_044",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/044.webp",
+   "emoji": "😶",
+   "desc": "😶",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_045",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/045.webp",
+   "emoji": "☠",
+   "desc": "☠",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_046",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/046.webp",
+   "emoji": "🙂",
+   "desc": "🙂",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_047",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/047.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_048",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/048.webp",
+   "emoji": "😃",
+   "desc": "😃",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_049",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/049.webp",
+   "emoji": "😢",
+   "desc": "😢",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_050",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/050.webp",
+   "emoji": "😤",
+   "desc": "😤",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_051",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/051.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_052",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/052.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_053",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/053.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_054",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/054.webp",
+   "emoji": "🎧",
+   "desc": "🎧",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_055",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/055.webp",
+   "emoji": "😢",
+   "desc": "😢",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_056",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/056.webp",
+   "emoji": "🏳‍🌈",
+   "desc": "🏳‍🌈",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_057",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/057.webp",
+   "emoji": "🤨",
+   "desc": "🤨",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_058",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/058.webp",
+   "emoji": "🫵",
+   "desc": "🫵",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_059",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/059.webp",
+   "emoji": "🖐",
+   "desc": "🖐",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_060",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/060.webp",
+   "emoji": "😫",
+   "desc": "😫",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_061",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/061.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_062",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/062.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_063",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/063.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_064",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/064.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_065",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/065.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_066",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/066.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_067",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/067.webp",
+   "emoji": "🥲",
+   "desc": "🥲",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_068",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/068.webp",
+   "emoji": "😢",
+   "desc": "😢",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_069",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/069.webp",
+   "emoji": "😟",
+   "desc": "😟",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_070",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/070.webp",
+   "emoji": "😚",
+   "desc": "😚",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_071",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/071.webp",
+   "emoji": "😠",
+   "desc": "😠",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_072",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/072.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_073",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/073.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_074",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/074.webp",
+   "emoji": "😀",
+   "desc": "😀",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_075",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/075.webp",
+   "emoji": "😍",
+   "desc": "😍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_076",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/076.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_077",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/077.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_078",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/078.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_079",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/079.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_080",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/080.webp",
+   "emoji": "😦",
+   "desc": "😦",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_081",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/081.webp",
+   "emoji": "😢",
+   "desc": "😢",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_082",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/082.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_083",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/083.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_084",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/084.webp",
+   "emoji": "😰",
+   "desc": "😰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_085",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/085.webp",
+   "emoji": "🤯",
+   "desc": "🤯",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_086",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/086.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_087",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/087.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_088",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/088.webp",
+   "emoji": "☹️",
+   "desc": "☹️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_089",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/089.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_090",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/090.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_091",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/091.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_092",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/092.webp",
+   "emoji": "👍",
+   "desc": "👍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_093",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/093.webp",
+   "emoji": "😍",
+   "desc": "😍",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_094",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/094.webp",
+   "emoji": "🥰",
+   "desc": "🥰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_095",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/095.webp",
+   "emoji": "☹️",
+   "desc": "☹️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_096",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/096.webp",
+   "emoji": "😧",
+   "desc": "😧",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_097",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/097.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_098",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/098.webp",
+   "emoji": "☹️",
+   "desc": "☹️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_099",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/099.webp",
+   "emoji": "☹️",
+   "desc": "☹️",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_100",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/100.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_101",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/101.webp",
+   "emoji": "😠",
+   "desc": "😠",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_102",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/102.webp",
+   "emoji": "😡",
+   "desc": "😡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_103",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/103.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_104",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/104.webp",
+   "emoji": "😭",
+   "desc": "😭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_105",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/105.webp",
+   "emoji": "😗",
+   "desc": "😗",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_106",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/106.webp",
+   "emoji": "😁",
+   "desc": "😁",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_107",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/107.webp",
+   "emoji": "🥴",
+   "desc": "🥴",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_108",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/108.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_109",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/109.webp",
+   "emoji": "🥺",
+   "desc": "🥺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_110",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/110.webp",
+   "emoji": "🙂",
+   "desc": "🙂",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_111",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/111.webp",
+   "emoji": "☺",
+   "desc": "☺",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_112",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/112.webp",
+   "emoji": "😰",
+   "desc": "😰",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_113",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/113.webp",
+   "emoji": "😇",
+   "desc": "😇",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_114",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/114.webp",
+   "emoji": "🤭",
+   "desc": "🤭",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_115",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/115.webp",
+   "emoji": "😏",
+   "desc": "😏",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_116",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/116.webp",
+   "emoji": "🙂",
+   "desc": "🙂",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_117",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/117.webp",
+   "emoji": "😦",
+   "desc": "😦",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_118",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/118.webp",
+   "emoji": "😇",
+   "desc": "😇",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_119",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/119.webp",
+   "emoji": "🤡",
+   "desc": "🤡",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  },
+  {
+   "id": "reznnnnyaaanzbxnzbyf_120",
+   "file": "stickers/reznnnnyaaanzbxnzbyf/120.webp",
+   "emoji": "🥲",
+   "desc": "🥲",
+   "pack": "reznnnnyaaanzbxnzbyf",
+   "anim": 0
+  }
+ ]
+}
